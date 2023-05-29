@@ -8,7 +8,7 @@ function Hero() {
       <div className={classes.image}>
         <Image
           src='/images/site/ganesh.png'
-          alt='An image showing Max'
+          alt='An image showing Ganesh'
           width={300}
           height={300}
         />
